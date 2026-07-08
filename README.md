@@ -34,4 +34,4 @@ You only need a modern web browser, or optionally [Node.js](https://nodejs.org/)
 
 **Clone the repository:**
    ```bash
-   git clone [https://github.com/rudra-th/encodeit.git](https://github.com/rudra-th/encodeit.git)
+   git clone https://github.com/rudra-th/encodeit.git
